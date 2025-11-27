@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/abbtech_backend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework10_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework11_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework12_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework1_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework2_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework3_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework4_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework5_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework6_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework7_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework8_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/homework9_java" vcs="Git" />
   </component>
 </project>
